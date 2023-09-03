@@ -34,7 +34,7 @@ Una volta caricato premere su download e attendere il caricamento.
 Premere ok, disconnettere il programma, spegnere la stampante eliminare il ponte e avviare la stampante.
 ![Alt text](/Assets/pictures/completed.png)
 Se tutto è andato secondo i piani, avrete il vostro bel firmware caricato.
-![Alt text](/Assets/pictures/done.png)
+![Alt text](/Assets/pictures/done.jpg)
 
 #English Version
 
@@ -70,4 +70,4 @@ Once uploaded, click on download and wait for it to load.
 Press ok, disconnect the program, turn off the printer, delete the bridge and start the printer.
 ![Alt text](/Assets/pictures/completed.png)
 If all went according to plan, you'll have your nice firmware loaded.
-![Alt text](/Assets/pictures/done.png)
+![Alt text](/Assets/pictures/done.jpg)
